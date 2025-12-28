@@ -1,0 +1,20 @@
+# =============================================================================
+# Flood Susceptibility Mapping - Python Dependencies
+# MYZ 305E GeoAI Applications Project
+# =============================================================================
+# 
+# INSTALL:
+# pip install numpy pandas scipy scikit-learn matplotlib seaborn joblib
+#
+# RUN:
+# python main.py
+#
+# =============================================================================
+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
